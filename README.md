@@ -15,7 +15,7 @@ This is the Education System Rest Api codes
 
 Clone the repo:
 ```sh
-git clone https://github.com/shubhatest/educationSystem.git
+git clone https://github.com/shubhabundela071/eductionSystem.git
 cd educationSystem
 ```
 
